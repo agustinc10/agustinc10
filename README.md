@@ -9,7 +9,11 @@ I'm a versatile and proactive professional with a constant interest in developin
 * 🌍  I'm based in Brazil (coming and going to Uruguay)
 * ✉️  You can contact me at [acerdenaf@gmail.com](mailto:acerdenaf@gmail.com)
 * 🧠  I'm learning Python, C and MQL5 (C++)
-
+* 📖  Currently reading *Principles* by Ray Dalio
+<!--
+* 🤝  I'm open to collaborating on a
+* ⚡  
+-->
 ### Skills
 
 
