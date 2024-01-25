@@ -4,9 +4,11 @@ Hi 👋 My name is Agustín Cerdeña
 Industrial Engineer --> Product Management
 --------------------------------------
 
-After working for years first in the world's largest brewer and then in the greatest e-commerce in LATAM, post-pandemic I decided to embark on a personal project: traveling from one end of the Americas to the other. I built a motorhome from scratch in just 3 months and traveled from Ushuaia to Alaska for 2 years. It was a unique project that challenged me immensely and allowed me to develop soft skills in ways I never imagined. 
+After working for years first in the greatest e-commerce in LATAM and before that in the world's largest brewer, post-pandemic I decided to embark on a personal project: traveling from one end of the Americas to the other. I built a motorhome from scratch in just 3 months and traveled from Ushuaia to Alaska for 2 years. It was a unique project that challenged me immensely and allowed me to develop soft skills in ways I never imagined. 
 
-Now, fully recharged and with a fresh perspective on my life goals, I am after the next challenge, improving my programming skills and leveraging my experience in project management, metrics, and team management towards roles in Product Management and Data Analytics areas.
+Now, fully recharged and with a fresh perspective on my life goals, I am after the next challenge to continue applying my experience in project management, metrics, and team leadership. 
+
+My focus remains directed towards the fields of Product Management and Data Analytics, all the while actively working on my programming skills.
 
 * 🌍  I'm based in Brazil (coming and going to Uruguay)
 * ✉️  You can contact me at [acerdenaf@gmail.com](mailto:acerdenaf@gmail.com)
